@@ -86,7 +86,7 @@ body {
 }
 
 /********** Extra small devices only **********/
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     /* Header */
     .navbar-brand {
         padding-top: 10px;

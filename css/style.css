@@ -1,7 +1,7 @@
 body {
     font-size: 16px;
     color: #fff;
-    background-color: #61122f;
+    background-color: ##272b91;
     font-family: 'Oxygen', sans-serif;
 }
 
@@ -41,7 +41,7 @@ body {
     text-align: center;
 }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-    border: 1px solid #61122f;
+    border: 1px solid #557c3e;
 }
 .navbar-header button.navbar-toggle {
     clear: both;
@@ -50,7 +50,7 @@ body {
 
 
 #nav-list li p {
-    background: #8e24aa;
+    background: #557c3e;
 }
 
 /* END HEADER */

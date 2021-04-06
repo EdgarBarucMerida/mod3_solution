@@ -20,7 +20,7 @@ body {
     text-decoration: none;
 }
 .navbar-brand h1 { /* Restaurant name */
-    font-family: 'Lora', serif;
+    font-family: 'Oxygen', serif;
     color: #557c3e;
     font-size: 1.7em;
     text-transform: uppercase;
